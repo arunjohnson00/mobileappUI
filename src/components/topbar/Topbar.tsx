@@ -27,7 +27,7 @@ const Topbar = () => {
               sx={{ flexGrow: 1, ml: 2 }}
               className={pageStyle.topbarTitle}
             >
-              abcd
+              Romantic Comedy
             </Typography>
           </IconButton>
           <IconButton
