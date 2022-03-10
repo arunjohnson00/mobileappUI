@@ -1,9 +1,6 @@
 import { Box, ImageListItem, ImageListItemBar } from "@mui/material";
-import { cardStyle } from "./style";
 
 const PosterCard = (props: any) => {
-  const pageStyle = cardStyle();
-
   return (
     <Box
       sx={{
